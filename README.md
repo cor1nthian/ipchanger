@@ -1,1 +1,3 @@
 # ipchanger
+
+Requires Tor
